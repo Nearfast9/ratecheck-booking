@@ -133,7 +133,7 @@ import { useState } from 'react';
                       <button type="submit" className="text-center text-white font-bold" onClick={handleSubmit}>Submit</button>
                       </div>
                       {/*FORM INPUT HASIL*/}
-              <label htmlFor="hasil" className="font-bold text-sm/6  text-gray-900">
+              <label htmlFor="hasil" className="flex items-center justify-center place-items-center font-bold text-sm/6  text-gray-900">
                   Total Rate :
               </label>
                   <div className="mt-2 mb-20">
