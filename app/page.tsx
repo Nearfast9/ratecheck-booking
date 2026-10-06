@@ -41,7 +41,7 @@ import { useState } from 'react';
                                       <div
                                       id="price"
                                       aria-label="price"
-                                      className="flex items-center col-start-1 row-start-1 w-full appearance-none rounded-md py-1.5 pl-3 pr-7 text-base text-gray-500 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6"
+                                      className="flex items-center w-full appearance-none rounded-md py-1.5 pl-3 pr-7 text-base text-gray-500 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6"
                                       >
                                       <p>Total Price</p>
                                       </div>
