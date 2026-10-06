@@ -25,7 +25,7 @@ import { useState } from 'react';
           <div className="items-center justify-center place-items-center">
               {/*FORM INPUT HARGA*/}
               <label htmlFor="price" className="block text-sm/6 font-medium text-gray-900">
-                  Input Commissionable amount :
+                  Input Total Price amount :
               </label>
                   <div className="mt-2">
                       <div className="max-w-[500px] flex items-center rounded-md bg-white pl-3 outline outline-1 -outline-offset-1 outline-gray-300 has-[input:focus-within]:outline has-[input:focus-within]:outline-2 has-[input:focus-within]:-outline-offset-2 has-[input:focus-within]:outline-indigo-600">
@@ -43,7 +43,7 @@ import { useState } from 'react';
                                       aria-label="price"
                                       className="col-start-1 row-start-1 w-full appearance-none rounded-md py-1.5 pl-3 pr-7 text-base text-gray-500 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6"
                                       >
-                                      <p>Tanpa Komisi</p>
+                                      <p>Total Price</p>
                                       </div>
                                   </div>
                       </div>
