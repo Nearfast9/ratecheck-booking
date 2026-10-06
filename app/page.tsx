@@ -43,7 +43,7 @@ import { useState } from 'react';
                                       aria-label="price"
                                       className="col-start-1 row-start-1 w-full appearance-none rounded-md py-1.5 pl-3 pr-7 text-base text-gray-500 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6"
                                       >
-                                      <p>Tanpa Komisi</p>
+                                      <p>Total Price</p>
                                       </div>
                                   </div>
                       </div>
